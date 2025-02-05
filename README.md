@@ -1,4 +1,3 @@
-```markdown
 # Rust Programming Exercises
 
 This repository contains a series of Rust programming exercises designed to help you practice and master key concepts in the Rust programming language. Below are the instructions to set up your environment and the list of exercises.
@@ -89,4 +88,3 @@ This repository contains a series of Rust programming exercises designed to help
 ---
 
 Happy coding! 🚀
-```
