@@ -10,7 +10,7 @@ This repository contains a series of Rust programming exercises designed to help
    To get started, create a new Rust file for each exercise. For example:
 
    ```bash
-   touch fizzbuzz.rs
+   touch <filename>.rs
    ```
 
    Compile and run the file using the Rust compiler (`rustc`):
